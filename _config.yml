@@ -18,7 +18,7 @@ minimal_mistakes_skin    : "air" # "default", "air", "aqua", "contrast", "dark",
 # Site Settings
 locale                   : "en-US"
 title                    : "Openstack Helm"
-title_separator          : "-"
+title_separator          : "Openstack Project-Openstack Helm"
 name                     : "Young Ki, Park(Gonzalez Park)"
 description              : "Easy Manual Site."
 url                      : "https://red1028.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
